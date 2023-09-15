@@ -10,7 +10,7 @@ function draw() {
   
   noStroke();
   fill('purple');
-  ellipse(300,200,400);
+  ellipse(300,200,200);
   
   // witte rechthoek met rode rand
   
